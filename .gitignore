@@ -1,6 +1,6 @@
 mosquitto-server/*.exe
 mosquitto-server/*.dll
-
+*.workspace
 
 
 
