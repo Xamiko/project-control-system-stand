@@ -3,14 +3,14 @@
  <FRAME activewindow="0">
   <PLACEMENT>2c00000002000000020000000083ffff0083ffffffffffffffffffff00000000c90000000f0500001a040000</PLACEMENT>
   <WINDOW type="default" module="ISIS">
-   <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="84" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="151190">
+   <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="127" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="127000">
     <world y1="-8890000" x1="-12700000" y2="8890000" x2="12700000"/>
     <centre x="0" y="0"/>
     <origin x="0" y="0"/>
    </editor>
   </WINDOW>
   <WINDOW type="default" module="VSMSTUDIO">
-   <STATE NAME="EDIT" VALUE="AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAADLPwCAAAAAvsAAAAQAFAAcgBvAGoAZQBjAHQAcwEAAAAAAAADLAAAASwA////+wAAABQAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAGQA////AAAAAwAAB3gAAABm/AEAAAAB/AAAAAAAAAd4AAAAUAD////6AAAAAAEAAAAC+wAAACAATwB1AHQAcAB1AHQARABvAGMAawBXAGkAZABnAGUAdAEAAAAA/////wAAAFAA////+wAAACIAQgByAGUAYQBrAHAAbwBpAG4AdABzAFcAaQBuAGQAbwB3AAAAAAD/////AAAAUAD///8AAAZ0AAADLAAAAAEAAAACAAAACAAAAAL8AAAAAA=="/>
+   <STATE NAME="EDIT" VALUE="AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAADLvwCAAAAAvsAAAAQAFAAcgBvAGoAZQBjAHQAcwEAAAAAAAADLgAAASwA////+wAAABQAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAGQA////AAAAAwAABiAAAABm/AEAAAAB/AAAAAAAAAYgAAAAUAD////6AAAAAAEAAAAC+wAAACAATwB1AHQAcAB1AHQARABvAGMAawBXAGkAZABnAGUAdAEAAAAA/////wAAAFAA////+wAAACIAQgByAGUAYQBrAHAAbwBpAG4AdABzAFcAaQBuAGQAbwB3AAAAAAD/////AAAAUAD///8AAAUcAAADLgAAAAEAAAACAAAACAAAAAL8AAAAAA=="/>
    <PROJECT ACTIVE="TRUE" NAME="RPI3_1" CONFIGURATION="Debug">
     <PROGRAMMER NAME="RPISSH" INTERFACE="Raspberry Pi">
      <PROPERTY NAME="HOST" VALUE=""/>
@@ -20,7 +20,7 @@
     </PROGRAMMER>
    </PROJECT>
    <EDITOR>
-    <FILE LINE="43" ACTIVE="1" NAME="RPI3_1/main.py" INDEX="19"/>
+    <FILE ACTIVE="1" NAME="RPI3_1/main.py"/>
    </EDITOR>
   </WINDOW>
  </FRAME>
@@ -32,7 +32,7 @@
   </editor>
  </MODULE>
  <MODULE name="ISIS">
-  <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="84" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="151190">
+  <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="127" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="127000">
    <world y1="-8890000" x1="-12700000" y2="8890000" x2="12700000"/>
    <centre x="0" y="0"/>
    <origin x="0" y="0"/>

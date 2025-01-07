@@ -1,6 +1,8 @@
 mosquitto-server/*.exe
 mosquitto-server/*.dll
-python-proteus/*.workspace
+
+
+
 
 
 
