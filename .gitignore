@@ -1,3 +1,9 @@
+mosquitto-server/*.exe
+mosquitto-server/*.dll
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
